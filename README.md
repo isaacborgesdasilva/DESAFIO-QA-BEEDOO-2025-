@@ -50,7 +50,7 @@ As gravações da execução de todos os casos de teste (sucesso e falha) estão
 
 ## 4. Relatório de Bugs Encontrados
 
-Durante a execução dos testes, foram identificados 3 (três) bugs principais.
+Durante a execução dos testes, foram identificados 2 (dois) bugs principais.
 
 ### Metodologia de Reporte de Bugs
 
